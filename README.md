@@ -1,4 +1,14 @@
-### Hi there 👋
+### Welcome! 👋
+
+My name is Layne Johnson and I am currently pursing a Master's in Applied Health Informatics at Stony Brook University. 
+
+
+
+📫 How to reach me:
+
+Email: Layne.Johnson@stonybrook.edu
+
+LinkedIn: https://www.linkedin.com/in/layne-johnson-32956616b/
 
 <!--
 **laynejohnson13/laynejohnson13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
